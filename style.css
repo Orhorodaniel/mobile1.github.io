@@ -31,7 +31,7 @@ header.sticky {
 .logo {
     width: 50px;
     height: 50px;
-    background: url(image/elebunny.webp);
+    background: url(elebunny.webp);
     background-size: cover;
     background-position: center;
     border-radius: 50%;
@@ -316,7 +316,7 @@ i {
 .home .container .content {
     width: 450px;
     height: 450px;
-    background: url(image/Webinar-bro.png);
+    background: url(Webinar-bro.png);
     background-size: cover;
     background-position: center;
 }
@@ -450,7 +450,7 @@ i {
 .cont {
     width: 200px;
     height: 200px;
-    background: #fff url(image/Task-bro.png);
+    background: #fff url(Task-bro.png);
     background-size: cover;
     background-position: center;
     box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.2);
@@ -458,97 +458,97 @@ i {
 }
 
 #cont1.first {
-    background: #fff url(image/Office\ work-amico.png);
+    background: #fff url(Office\ work-amico.png);
     background-size: cover;
     background-position: center;
 }
 
 #cont2.first {
-    background: #fff url(image/driving\ school-amico.png);
+    background: #fff url(driving\ school-amico.png);
     background-size: cover;
     background-position: center;
 }
 
 #cont3.first {
-    background: url(image/elebunny.webp);
+    background: url(elebunny.webp);
     background-size: cover;
     background-position: center;
 }
 
 #cont4.first {
-    background: url(image/Car\ driving\ \(1\).gif);
+    background: url(Car\ driving\ \(1\).gif);
     background-size: cover;
     background-position: center;
 }
 
 #cont1.second {
-    background: #fff url(image/pexels-mister-mister-3434523.jpg);
+    background: #fff url(pexels-mister-mister-3434523.jpg);
     background-size: cover;
     background-position: center;
 }
 
 #cont2.second {
-    background: #fff url(image/pexels-photo-1211887.jpeg);
+    background: #fff url(pexels-photo-1211887.jpeg);
     background-size: cover;
     background-position: center;
 }
 
 #cont3.second {
-    background: url(image/pexels-photo-904349.jpeg);
+    background: url(pexels-photo-904349.jpeg);
     background-size: cover;
     background-position: center;
 }
 
 #cont4.second {
-    background: url(image/pexels-william-choquette-2641886.jpg);
+    background: url(pexels-william-choquette-2641886.jpg);
     background-size: cover;
     background-position: center;
 }
 
 #cont1.third {
-    background: #fff url(image/At\ the\ office-amico.png);
+    background: #fff url(At\ the\ office-amico.png);
     background-size: cover;
     background-position: center;
 }
 
 #cont2.third {
-    background: #fff url(image/Office\ work-rafiki.png);
+    background: #fff url(Office\ work-rafiki.png);
     background-size: cover;
     background-position: center;
 }
 
 #cont3.third {
-    background: #fff url(image/Office\ work-amico.png);
+    background: #fff url(Office\ work-amico.png);
     background-size: cover;
     background-position: center;
 }
 
 #cont4.third {
-    background: #fff url(image/Good\ team-pana.png);
+    background: #fff url(Good\ team-pana.png);
     background-size: cover;
     background-position: center;
 }
 
 .content-box.active .contbx .cont {
-    background: url(image/african-woman-studio-white-wall-woman-white-shirt.jpg);
+    background: url(african-woman-studio-white-wall-woman-white-shirt.jpg);
     background-size: cover;
     background-position: center;
 }
 
 .cont:nth-child(2) {
-    background: #fff url(image/Good\ team-pana.png);
+    background: #fff url(Good\ team-pana.png);
     background-size: cover;
     background-position: center;
 }
 
 .cont:nth-child(3) {
-    background: #fff url(image/Office\ work-rafiki.png);
+    background: #fff url(Office\ work-rafiki.png);
     background-size: cover;
     background-position: center;
 }
 
 .cont:nth-child(4) {
-    background: #fff url(image/Office\ work-amico.png);
+    background: #fff url(Office\ work-amico.png);
     background-size: cover;
     background-position: center;
 }
@@ -609,7 +609,7 @@ i {
 .about .logobx {
     width: 400px;
     height: 400px;
-    background: #fff url(image/Good\ team-pana.png);
+    background: #fff url(Good\ team-pana.png);
     background-size: cover;
     background-position: center;
     box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.2);
@@ -1092,7 +1092,7 @@ i {
     .home .container .content {
         width: 300px;
         height: 300px;
-        background: url(image/Webinar-bro.png);
+        background: url(Webinar-bro.png);
         background-size: cover;
         background-position: center;
     }
@@ -1195,7 +1195,7 @@ i {
     .home .container .content {
         width: 250px;
         height: 250px;
-        background: url(image/Webinar-bro.png);
+        background: url(Webinar-bro.png);
         background-size: cover;
         background-position: center;
     }
